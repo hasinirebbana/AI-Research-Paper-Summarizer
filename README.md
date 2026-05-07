@@ -1,2 +1,2 @@
-# my-first-repo
-This is my first Git Repository
+# AI Research Paper Summarizer
+
